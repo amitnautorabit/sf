@@ -214,6 +214,7 @@
         <members>Contact.CleanStatus</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
+        <members>Contact.Direct_Line__c</members>
         <members>Contact.DoNotCall</members>
         <members>Contact.Email</members>
         <members>Contact.Fax</members>
