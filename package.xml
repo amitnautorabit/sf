@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>43.0</version>
+    <version>44.0</version>
     <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
@@ -213,6 +213,7 @@
         <members>Contact.AssistantPhone</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
+        <members>Contact.Custom_Field__c</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
         <members>Contact.Direct_Line__c</members>
