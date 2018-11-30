@@ -216,6 +216,7 @@
         <members>Contact.Custom_Field__c</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
+        <members>Contact.Dev1_Field__c</members>
         <members>Contact.Direct_Line__c</members>
         <members>Contact.DoNotCall</members>
         <members>Contact.Email</members>

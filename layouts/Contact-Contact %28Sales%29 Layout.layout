@@ -46,11 +46,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Direct_Line__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Custom_Field__c</field>
+                <field>Dev1_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
