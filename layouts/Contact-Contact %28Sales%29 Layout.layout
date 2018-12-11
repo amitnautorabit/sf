@@ -46,7 +46,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Dev1_Field__c</field>
+                <field>Home_City__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
