@@ -220,7 +220,6 @@
         <members>Contact.HasOptedOutOfEmail</members>
         <members>Contact.HasOptedOutOfFax</members>
         <members>Contact.HomePhone</members>
-        <members>Contact.Home_City__c</members>
         <members>Contact.Jigsaw</members>
         <members>Contact.Languages__c</members>
         <members>Contact.LastCURequestDate</members>
