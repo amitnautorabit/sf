@@ -33,9 +33,6 @@
         <fullName>CcAddress</fullName>
     </fields>
     <fields>
-        <fullName>FirstOpenedDate</fullName>
-    </fields>
-    <fields>
         <fullName>FromAddress</fullName>
     </fields>
     <fields>
@@ -55,12 +52,6 @@
     </fields>
     <fields>
         <fullName>IsExternallyVisible</fullName>
-    </fields>
-    <fields>
-        <fullName>IsPrivateDraft</fullName>
-    </fields>
-    <fields>
-        <fullName>LastOpenedDate</fullName>
     </fields>
     <fields>
         <fullName>MessageDate</fullName>

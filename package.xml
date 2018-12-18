@@ -51,7 +51,6 @@
     <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
-        <members>Account.Accunt_Info__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
@@ -213,11 +212,8 @@
         <members>Contact.AssistantPhone</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
-        <members>Contact.Custom_Field__c</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
-        <members>Contact.Dev1_Field__c</members>
-        <members>Contact.Direct_Line__c</members>
         <members>Contact.DoNotCall</members>
         <members>Contact.Email</members>
         <members>Contact.Fax</members>
@@ -374,7 +370,6 @@
         <members>DuplicateRecordSet.RecordCount</members>
         <members>EmailMessage.BccAddress</members>
         <members>EmailMessage.CcAddress</members>
-        <members>EmailMessage.FirstOpenedDate</members>
         <members>EmailMessage.FromAddress</members>
         <members>EmailMessage.FromName</members>
         <members>EmailMessage.HasAttachment</members>
@@ -382,8 +377,6 @@
         <members>EmailMessage.HtmlBody</members>
         <members>EmailMessage.Incoming</members>
         <members>EmailMessage.IsExternallyVisible</members>
-        <members>EmailMessage.IsPrivateDraft</members>
-        <members>EmailMessage.LastOpenedDate</members>
         <members>EmailMessage.MessageDate</members>
         <members>EmailMessage.MessageSize</members>
         <members>EmailMessage.ParentId</members>
@@ -402,7 +395,6 @@
         <members>Event.EventSubtype</members>
         <members>Event.IsAllDayEvent</members>
         <members>Event.IsPrivate</members>
-        <members>Event.IsRecurrence2</members>
         <members>Event.IsReminderSet</members>
         <members>Event.Location</members>
         <members>Event.OwnerId</members>
@@ -556,15 +548,6 @@
         <members>QuickText.Message</members>
         <members>QuickText.Name</members>
         <members>QuickText.OwnerId</members>
-        <members>RecordAction.ActionDefinition</members>
-        <members>RecordAction.ActionType</members>
-        <members>RecordAction.FlowDefinition</members>
-        <members>RecordAction.FlowInterviewId</members>
-        <members>RecordAction.IsMandatory</members>
-        <members>RecordAction.Order</members>
-        <members>RecordAction.Pinned</members>
-        <members>RecordAction.RecordId</members>
-        <members>RecordAction.Status</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>Scorecard.OwnerId</members>
@@ -587,10 +570,6 @@
         <members>Solution.SolutionName</members>
         <members>Solution.SolutionNote</members>
         <members>Solution.Status</members>
-        <members>StreamActivityAccess.ActivityTeamId</members>
-        <members>StreamActivityAccess.ExternalResource</members>
-        <members>StreamActivityAccess.IsContentShared</members>
-        <members>StreamActivityAccess.OwnerId</members>
         <members>Task.ActivityDate</members>
         <members>Task.CallDisposition</members>
         <members>Task.CallDurationInSeconds</members>
@@ -965,9 +944,7 @@
         <members>Campaign</members>
         <members>Case</members>
         <members>Contact</members>
-        <members>FlowInterview</members>
         <members>Lead</members>
-        <members>ListEmail</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>User</members>
