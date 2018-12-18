@@ -92,6 +92,7 @@
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
         <members>Asset.AssetServicedById</members>
+        <members>Asset.Asset_New_Field__c</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
         <members>Asset.InstallDate</members>
