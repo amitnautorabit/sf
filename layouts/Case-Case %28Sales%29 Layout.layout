@@ -81,7 +81,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Case_Dest__c</field>
+                <field>Case_New_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
