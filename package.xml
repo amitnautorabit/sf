@@ -182,6 +182,7 @@
         <members>Case.AssetId</members>
         <members>Case.BusinessHoursId</members>
         <members>Case.Case_Dest__c</members>
+        <members>Case.Case_New_Field__c</members>
         <members>Case.ClosedDate</members>
         <members>Case.Comments</members>
         <members>Case.ContactEmail</members>
