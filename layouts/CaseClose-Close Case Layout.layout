@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Case_New_Field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>DJ_Case__c</field>
+            </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
     </layoutSections>

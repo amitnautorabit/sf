@@ -190,6 +190,7 @@
         <members>Case.ContactId</members>
         <members>Case.ContactMobile</members>
         <members>Case.ContactPhone</members>
+        <members>Case.DJ_Case__c</members>
         <members>Case.Description</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.IsClosedOnCreate</members>
