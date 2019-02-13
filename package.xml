@@ -880,6 +880,14 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Custom_Marketing_Profile_profilePasswordPolicy1550023650541</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>Custom_Marketing_Profile_profileSessionSetting1550023650613</members>
+        <name>ProfileSessionSetting</name>
+    </types>
+    <types>
         <members>Case.LogACall</members>
         <members>Case.NewChildCase</members>
         <members>CollaborationGroup.NewGroupMember</members>
@@ -907,6 +915,8 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Account.RT1</members>
+        <members>Account.RT2</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
