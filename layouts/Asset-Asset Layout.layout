@@ -42,11 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Asset_New_Field__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Movember_Asset__c</field>
+                <field>SG_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
