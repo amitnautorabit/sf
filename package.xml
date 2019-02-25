@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>44.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>45.0</version>
     <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
@@ -96,6 +95,7 @@
         <members>Asset.Asset_New_Field__c</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
+        <members>Asset.GL_Asset__c</members>
         <members>Asset.InstallDate</members>
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
