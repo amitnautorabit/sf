@@ -48,6 +48,10 @@
                 <behavior>Edit</behavior>
                 <field>GL_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Asset_3PL__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
