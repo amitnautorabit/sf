@@ -279,6 +279,7 @@
         <members>Contract.SpecialTerms</members>
         <members>Contract.StartDate</members>
         <members>Contract.Status</members>
+        <members>Contract.V_Contract__c</members>
         <members>ContractContactRole.Role</members>
         <members>DandBCompany.CompanyCurrencyIsoCode</members>
         <members>DandBCompany.CountryAccessCode</members>
