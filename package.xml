@@ -274,6 +274,7 @@
         <members>Contract.Origin_Contract__c</members>
         <members>Contract.OwnerExpirationNotice</members>
         <members>Contract.OwnerId</members>
+        <members>Contract.PC_Contract__c</members>
         <members>Contract.Pricebook2Id</members>
         <members>Contract.ShippingAddress</members>
         <members>Contract.SpecialTerms</members>
