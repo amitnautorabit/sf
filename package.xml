@@ -270,6 +270,7 @@
         <members>Contract.CustomerSignedTitle</members>
         <members>Contract.Description</members>
         <members>Contract.EndDate</members>
+        <members>Contract.Myer_Contract__c</members>
         <members>Contract.Name</members>
         <members>Contract.Origin_Contract__c</members>
         <members>Contract.OwnerExpirationNotice</members>
