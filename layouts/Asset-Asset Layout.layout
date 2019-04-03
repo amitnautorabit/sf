@@ -54,7 +54,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>MG_Asset__c</field>
+                <field>RXP_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
