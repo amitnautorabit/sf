@@ -117,6 +117,7 @@
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
+        <members>Asset.Traf_Asset__c</members>
         <members>Asset.UsageEndDate</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
