@@ -131,6 +131,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>NZP_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>NZP Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
