@@ -68,6 +68,10 @@
                 <behavior>Edit</behavior>
                 <field>NZP_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>BT_Asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
