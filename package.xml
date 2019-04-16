@@ -115,6 +115,7 @@
         <members>Asset.PurchaseDate</members>
         <members>Asset.Quantity</members>
         <members>Asset.RXP_Asset__c</members>
+        <members>Asset.Ramsay_Asset__c</members>
         <members>Asset.RootAssetId</members>
         <members>Asset.SG_Asset__c</members>
         <members>Asset.SerialNumber</members>
