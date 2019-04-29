@@ -338,6 +338,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.NSG_Asset__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Asset.NZP_Asset__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.Price</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -614,6 +624,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Case.ContactId</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.DJ_Case__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
