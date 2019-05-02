@@ -92,6 +92,10 @@
                 <behavior>Edit</behavior>
                 <field>Vector_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>RXP1_Asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
