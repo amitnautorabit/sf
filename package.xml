@@ -108,6 +108,7 @@
         <members>Asset.NDC_Asset__c</members>
         <members>Asset.Name</members>
         <members>Asset.OwnerId</members>
+        <members>Asset.PW_Asset__c</members>
         <members>Asset.ParentId</members>
         <members>Asset.Price</members>
         <members>Asset.Product2Id</members>
