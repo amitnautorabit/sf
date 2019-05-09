@@ -50,6 +50,46 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Asset_3PL__c</fullName>
+        <externalId>false</externalId>
+        <label>Asset 3PL</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Asset_New_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Asset New Field</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>B8_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>B8 Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>BT_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>BT Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ContactId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
@@ -57,6 +97,26 @@
     <fields>
         <fullName>Description</fullName>
         <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>GL_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>GL Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>IC_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>IC Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>InstallDate</fullName>
@@ -71,6 +131,56 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>MG_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>MG Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Movember_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Movember Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>NDC_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>NDC Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>NSG_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>NSG Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>NZP_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>NZP Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -78,6 +188,16 @@
         <fullName>OwnerId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>PW_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>PW Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>ParentId</fullName>
@@ -112,9 +232,49 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>RXP1_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>RXP1 Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>RXP_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>RXP Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Ramsay_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Ramsay Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>RootAssetId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>SG_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>SG_Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>SerialNumber</fullName>
@@ -129,8 +289,38 @@
         <fullName>StockKeepingUnit</fullName>
     </fields>
     <fields>
+        <fullName>Traf_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Traf Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>V_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>V Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Vector_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Vector Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <listViews>
         <fullName>AllAssets</fullName>
