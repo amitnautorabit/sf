@@ -128,6 +128,7 @@
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.Traf_Asset__c</members>
         <members>Asset.UsageEndDate</members>
+        <members>Asset.V_Asset__c</members>
         <members>Asset.Vector_Asset__c</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
