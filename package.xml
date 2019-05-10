@@ -734,6 +734,10 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>test</members>
+        <name>EntitlementProcess</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>
@@ -760,6 +764,7 @@
         <members>Case-Case %28Support%29 Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
+        <members>CaseMilestone-Case Milestone Layout</members>
         <members>CommunityMemberLayout-Community Member Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
@@ -767,9 +772,11 @@
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
+        <members>ContractLineItem-Contract Line Item Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
+        <members>Entitlement-Entitlement Layout</members>
         <members>Event-Event Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
@@ -792,6 +799,7 @@
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>ServiceContract-Service Contract Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
@@ -942,6 +950,12 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Accounts_with_Entitlements_with_Contacts</members>
+        <members>Service_Contracts_with_Contract_Line_Items</members>
+        <members>Service_Contracts_with_Entitlements</members>
+        <name>ReportType</name>
     </types>
     <types>
         <members>CEO</members>
