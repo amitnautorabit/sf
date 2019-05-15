@@ -227,6 +227,7 @@
         <members>Case.SuppliedName</members>
         <members>Case.SuppliedPhone</members>
         <members>Case.Type</members>
+        <members>Case.infy_Case__c</members>
         <members>CaseContactRole.Role</members>
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
