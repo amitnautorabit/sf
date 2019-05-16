@@ -91,6 +91,10 @@
                 <behavior>Edit</behavior>
                 <field>infy_Case__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>ML_Case__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

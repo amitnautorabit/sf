@@ -212,6 +212,7 @@
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.IsClosedOnCreate</members>
         <members>Case.IsEscalated</members>
+        <members>Case.ML_Case__c</members>
         <members>Case.Origin</members>
         <members>Case.OwnerId</members>
         <members>Case.ParentId</members>
