@@ -118,6 +118,7 @@
         <members>Asset.ProductFamily</members>
         <members>Asset.PurchaseDate</members>
         <members>Asset.Quantity</members>
+        <members>Asset.R4K_Asset__c</members>
         <members>Asset.RXP1_Asset__c</members>
         <members>Asset.RXP_Asset__c</members>
         <members>Asset.Ramsay_Asset__c</members>
@@ -212,6 +213,7 @@
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.IsClosedOnCreate</members>
         <members>Case.IsEscalated</members>
+        <members>Case.ML2_Case__c</members>
         <members>Case.ML_Case__c</members>
         <members>Case.Origin</members>
         <members>Case.OwnerId</members>
