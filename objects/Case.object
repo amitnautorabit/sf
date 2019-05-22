@@ -165,6 +165,18 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>ML2_Case__c</fullName>
+        <externalId>false</externalId>
+        <label>ML2 Case</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ML_Case__c</fullName>
         <externalId>false</externalId>
         <label>ML Case</label>
