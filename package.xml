@@ -124,6 +124,7 @@
         <members>Asset.Ramsay_Asset__c</members>
         <members>Asset.RootAssetId</members>
         <members>Asset.SG_Asset__c</members>
+        <members>Asset.Sensis_Asset__c</members>
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
