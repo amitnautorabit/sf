@@ -105,6 +105,7 @@
         <members>Asset.MG_Asset__c</members>
         <members>Asset.Movember_Asset__c</members>
         <members>Asset.NDC_Asset__c</members>
+        <members>Asset.NIB_Asset__c</members>
         <members>Asset.NSG_Asset__c</members>
         <members>Asset.NZP_Asset__c</members>
         <members>Asset.Name</members>
