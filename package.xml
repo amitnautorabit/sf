@@ -96,6 +96,7 @@
         <members>Asset.Asset_New_Field__c</members>
         <members>Asset.B8_Asset__c</members>
         <members>Asset.BT_Asset__c</members>
+        <members>Asset.Brillio_Asset__c</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
         <members>Asset.GL_Asset__c</members>
