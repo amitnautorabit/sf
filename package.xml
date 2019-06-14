@@ -98,6 +98,7 @@
         <members>Asset.Brillio_Asset__c</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
+        <members>Asset.Election_Asset__c</members>
         <members>Asset.GL_Asset__c</members>
         <members>Asset.IC_Asset__c</members>
         <members>Asset.InstallDate</members>
