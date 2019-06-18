@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>43.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>45.0</version>
     <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
@@ -117,6 +116,25 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>AuthorizationForm.DefaultAuthFormTextId</members>
+        <members>AuthorizationForm.EffectiveFromDate</members>
+        <members>AuthorizationForm.EffectiveToDate</members>
+        <members>AuthorizationForm.Name</members>
+        <members>AuthorizationForm.RevisionNumber</members>
+        <members>AuthorizationFormConsent.AuthorizationFormTextId</members>
+        <members>AuthorizationFormConsent.ConsentCapturedDateTime</members>
+        <members>AuthorizationFormConsent.ConsentCapturedSource</members>
+        <members>AuthorizationFormConsent.ConsentCapturedSourceType</members>
+        <members>AuthorizationFormConsent.Name</members>
+        <members>AuthorizationFormConsent.PartyId</members>
+        <members>AuthorizationFormDataUse.AuthorizationFormId</members>
+        <members>AuthorizationFormDataUse.DataUsePurposeId</members>
+        <members>AuthorizationFormDataUse.Name</members>
+        <members>AuthorizationFormText.AuthorizationFormId</members>
+        <members>AuthorizationFormText.FullAuthorizationFormUrl</members>
+        <members>AuthorizationFormText.Locale</members>
+        <members>AuthorizationFormText.Name</members>
+        <members>AuthorizationFormText.SummaryAuthFormText</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
@@ -205,8 +223,27 @@
         <members>Case.SuppliedEmail</members>
         <members>Case.SuppliedName</members>
         <members>Case.SuppliedPhone</members>
+        <members>Case.T2_Case__c</members>
         <members>Case.Type</members>
         <members>CaseContactRole.Role</members>
+        <members>ConsumptionRate.ConsumptionScheduleId</members>
+        <members>ConsumptionRate.Description</members>
+        <members>ConsumptionRate.LowerBound</members>
+        <members>ConsumptionRate.Name</members>
+        <members>ConsumptionRate.Price</members>
+        <members>ConsumptionRate.PricingMethod</members>
+        <members>ConsumptionRate.ProcessingOrder</members>
+        <members>ConsumptionRate.UpperBound</members>
+        <members>ConsumptionSchedule.BillingTerm</members>
+        <members>ConsumptionSchedule.BillingTermUnit</members>
+        <members>ConsumptionSchedule.Description</members>
+        <members>ConsumptionSchedule.IsActive</members>
+        <members>ConsumptionSchedule.MatchingAttribute</members>
+        <members>ConsumptionSchedule.Name</members>
+        <members>ConsumptionSchedule.NumberOfRates</members>
+        <members>ConsumptionSchedule.RatingMethod</members>
+        <members>ConsumptionSchedule.Type</members>
+        <members>ConsumptionSchedule.UnitOfMeasure</members>
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
@@ -220,6 +257,7 @@
         <members>Contact.HasOptedOutOfEmail</members>
         <members>Contact.HasOptedOutOfFax</members>
         <members>Contact.HomePhone</members>
+        <members>Contact.IndividualId</members>
         <members>Contact.Jigsaw</members>
         <members>Contact.Languages__c</members>
         <members>Contact.LastCURequestDate</members>
@@ -235,6 +273,25 @@
         <members>Contact.Phone</members>
         <members>Contact.ReportsToId</members>
         <members>Contact.Title</members>
+        <members>ContactPointTypeConsent.CaptureContactPointType</members>
+        <members>ContactPointTypeConsent.CaptureDate</members>
+        <members>ContactPointTypeConsent.CaptureSource</members>
+        <members>ContactPointTypeConsent.ContactPointType</members>
+        <members>ContactPointTypeConsent.DataUsePurposeId</members>
+        <members>ContactPointTypeConsent.DoubleConsentCaptureDate</members>
+        <members>ContactPointTypeConsent.EffectiveFrom</members>
+        <members>ContactPointTypeConsent.EffectiveTo</members>
+        <members>ContactPointTypeConsent.Name</members>
+        <members>ContactPointTypeConsent.PartyId</members>
+        <members>ContactPointTypeConsent.PrivacyConsentStatus</members>
+        <members>ContactRequest.OwnerId</members>
+        <members>ContactRequest.PreferredChannel</members>
+        <members>ContactRequest.PreferredPhone</members>
+        <members>ContactRequest.RequestDescription</members>
+        <members>ContactRequest.RequestReason</members>
+        <members>ContactRequest.Status</members>
+        <members>ContactRequest.WhatId</members>
+        <members>ContactRequest.WhoId</members>
         <members>ContentVersion.ContentSize</members>
         <members>ContentVersion.Description</members>
         <members>ContentVersion.FileExtension</members>
@@ -363,6 +420,13 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>DataUseLegalBasis.Description</members>
+        <members>DataUseLegalBasis.Name</members>
+        <members>DataUseLegalBasis.Source</members>
+        <members>DataUsePurpose.CanDataSubjectOptOut</members>
+        <members>DataUsePurpose.Description</members>
+        <members>DataUsePurpose.LegalBasisId</members>
+        <members>DataUsePurpose.Name</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -390,6 +454,7 @@
         <members>EmailMessage.ValidatedFromAddress</members>
         <members>Event.ActivityDate</members>
         <members>Event.ActivityDateTime</members>
+        <members>Event.Attendees</members>
         <members>Event.Description</members>
         <members>Event.DurationInMinutes</members>
         <members>Event.Email</members>
@@ -410,6 +475,38 @@
         <members>Event.WhoId</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>Image.CapturedAngle</members>
+        <members>Image.ContentDocumentId</members>
+        <members>Image.ImageAlternateText</members>
+        <members>Image.ImageClass</members>
+        <members>Image.ImageClassObjectType</members>
+        <members>Image.ImageTitle</members>
+        <members>Image.ImageUrl</members>
+        <members>Image.ImageViewType</members>
+        <members>Image.IsActive</members>
+        <members>Image.Name</members>
+        <members>Individual.BirthDate</members>
+        <members>Individual.CanStorePiiElsewhere</members>
+        <members>Individual.ChildrenCount</members>
+        <members>Individual.ConsumerCreditScore</members>
+        <members>Individual.ConsumerCreditScoreProviderName</members>
+        <members>Individual.ConvictionsCount</members>
+        <members>Individual.DeathDate</members>
+        <members>Individual.HasOptedOutGeoTracking</members>
+        <members>Individual.HasOptedOutProcessing</members>
+        <members>Individual.HasOptedOutProfiling</members>
+        <members>Individual.HasOptedOutSolicit</members>
+        <members>Individual.HasOptedOutTracking</members>
+        <members>Individual.IndividualsAge</members>
+        <members>Individual.InfluencerRating</members>
+        <members>Individual.IsHomeOwner</members>
+        <members>Individual.MilitaryService</members>
+        <members>Individual.Name</members>
+        <members>Individual.Occupation</members>
+        <members>Individual.OwnerId</members>
+        <members>Individual.SendIndividualData</members>
+        <members>Individual.ShouldForget</members>
+        <members>Individual.Website</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -424,6 +521,7 @@
         <members>Lead.Fax</members>
         <members>Lead.HasOptedOutOfEmail</members>
         <members>Lead.HasOptedOutOfFax</members>
+        <members>Lead.IndividualId</members>
         <members>Lead.Industry</members>
         <members>Lead.Jigsaw</members>
         <members>Lead.LastTransferDate</members>
@@ -510,6 +608,7 @@
         <members>Order.PoNumber</members>
         <members>Order.ShipToContactId</members>
         <members>Order.ShippingAddress</members>
+        <members>Order.Status</members>
         <members>Order.TotalAmount</members>
         <members>Order.Type</members>
         <members>OrderItem.AvailableQuantity</members>
@@ -546,16 +645,26 @@
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
         <members>Product2.StockKeepingUnit</members>
+        <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
+        <members>ProductConsumptionSchedule.ProductId</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
         <members>QuickText.Name</members>
         <members>QuickText.OwnerId</members>
+        <members>Recommendation.AcceptanceLabel</members>
+        <members>Recommendation.ActionReference</members>
+        <members>Recommendation.Description</members>
+        <members>Recommendation.ImageId</members>
+        <members>Recommendation.IsActionActive</members>
+        <members>Recommendation.Name</members>
+        <members>Recommendation.RejectionLabel</members>
         <members>RecordAction.ActionDefinition</members>
         <members>RecordAction.ActionType</members>
         <members>RecordAction.FlowDefinition</members>
         <members>RecordAction.FlowInterviewId</members>
         <members>RecordAction.IsMandatory</members>
+        <members>RecordAction.IsUiRemoveHidden</members>
         <members>RecordAction.Order</members>
         <members>RecordAction.Pinned</members>
         <members>RecordAction.RecordId</members>
@@ -628,6 +737,10 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>AuthorizationForm</members>
+        <members>AuthorizationFormConsent</members>
+        <members>AuthorizationFormDataUse</members>
+        <members>AuthorizationFormText</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -635,20 +748,30 @@
         <members>ChatterActivity</members>
         <members>CollaborationGroup</members>
         <members>CollaborationGroupMember</members>
+        <members>ConsumptionRate</members>
+        <members>ConsumptionSchedule</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
+        <members>ContactPointTypeConsent</members>
+        <members>ContactRequest</members>
         <members>ContentVersion</members>
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
+        <members>DataUseLegalBasis</members>
+        <members>DataUsePurpose</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
+        <members>ExpressionFilter</members>
+        <members>ExpressionFilterCriteria</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>Image</members>
+        <members>Individual</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -665,7 +788,10 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>ProductConsumptionSchedule</members>
+        <members>PromptAction</members>
         <members>QuickText</members>
+        <members>Recommendation</members>
         <members>RecordAction</members>
         <members>RequestsForAccessSIQ</members>
         <members>Scorecard</members>
@@ -733,6 +859,8 @@
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
         <members>CommunityMemberLayout-Community Member Layout</members>
+        <members>ConsumptionRate-Consumption Rate Layout</members>
+        <members>ConsumptionSchedule-Consumption Schedule Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
@@ -745,6 +873,7 @@
         <members>Event-Event Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>Individual-Individual Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -760,6 +889,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
@@ -790,11 +920,14 @@
         <members>Case.MyCases</members>
         <members>Case.MyOpenCases</members>
         <members>CollaborationGroup.All_ChatterGroups</members>
+        <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
+        <members>ConsumptionSchedule.My_ConsumptionSchedules</members>
         <members>Contact.AllContacts</members>
         <members>Contact.BirthdaysThisMonth</members>
         <members>Contact.MyContacts</members>
         <members>Contact.NewLastWeek</members>
         <members>Contact.NewThisWeek</members>
+        <members>ContactRequest.My_ContactRequests</members>
         <members>Contract.AllActivatedContracts</members>
         <members>Contract.AllContracts</members>
         <members>Contract.AllDraftContracts</members>
@@ -821,11 +954,19 @@
         <members>Order.AllDraftOrders</members>
         <members>Order.AllOrders</members>
         <members>Product2.AllProducts</members>
+        <members>Recommendation.All_Recommendations</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
         <members>SocialPersona.AllSocialPersonas</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>Task.CompletedTasks</members>
+        <members>Task.DelegatedTasks</members>
+        <members>Task.OpenTasks</members>
+        <members>Task.OverdueTasks</members>
+        <members>Task.RecurringTasks</members>
+        <members>Task.TodaysTasks</members>
+        <members>Task.UnscheduledTasks</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
@@ -944,6 +1085,7 @@
         <members>Macro</members>
         <members>Mobile</members>
         <members>Name</members>
+        <members>OmniChannel</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>OrgPreference</members>
@@ -961,6 +1103,7 @@
         <members>Case</members>
         <members>Contact</members>
         <members>FlowInterview</members>
+        <members>Individual</members>
         <members>Lead</members>
         <members>ListEmail</members>
         <members>Opportunity</members>
