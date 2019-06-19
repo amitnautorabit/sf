@@ -13,11 +13,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>Clone</actionName>
+        <actionName>CloneAsChild</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>CloneAsChild</actionName>
+        <actionName>Clone</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -109,6 +109,18 @@
     <fields>
         <fullName>ContactPhone</fullName>
         <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>D15__c</fullName>
+        <externalId>false</externalId>
+        <label>D15 Case</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Description</fullName>
