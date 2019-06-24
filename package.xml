@@ -96,6 +96,7 @@
         <members>Asset.InstallDate</members>
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
+        <members>Asset.MC_Asset__c</members>
         <members>Asset.Name</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
