@@ -61,6 +61,7 @@
         <members>Account.Fax</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
+        <members>Account.NIB_Account__c</members>
         <members>Account.NaicsCode</members>
         <members>Account.NaicsDesc</members>
         <members>Account.Name</members>
