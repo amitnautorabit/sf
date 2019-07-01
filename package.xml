@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>45.0</version>
     <types>
+        <members>assetTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
@@ -116,6 +120,7 @@
         <members>Asset.TA_Asset__c</members>
         <members>Asset.UsageEndDate</members>
         <members>Asset.Vector_Asset__c</members>
+        <members>Asset.francisco_checkbox__c</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
         <members>AssetRelationship.RelatedAssetId</members>

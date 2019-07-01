@@ -56,6 +56,10 @@
                 <behavior>Edit</behavior>
                 <field>Vector_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>francisco_checkbox__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
