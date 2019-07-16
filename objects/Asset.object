@@ -180,6 +180,16 @@
         <trackHistory>false</trackHistory>
         <type>Checkbox</type>
     </fields>
+    <fields>
+        <fullName>is_asset__c</fullName>
+        <externalId>false</externalId>
+        <label>is asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAssets</fullName>
         <filterScope>Everything</filterScope>
