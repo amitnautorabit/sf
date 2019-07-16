@@ -58,7 +58,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>francisco_checkbox__c</field>
+                <field>is_asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
