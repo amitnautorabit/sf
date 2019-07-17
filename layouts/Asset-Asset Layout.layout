@@ -60,6 +60,10 @@
                 <behavior>Edit</behavior>
                 <field>is_asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>RHC_Asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
