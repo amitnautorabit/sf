@@ -64,6 +64,10 @@
                 <behavior>Edit</behavior>
                 <field>RHC_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>iselect_asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
