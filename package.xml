@@ -124,6 +124,7 @@
         <members>Asset.Vector_Asset__c</members>
         <members>Asset.francisco_checkbox__c</members>
         <members>Asset.is_asset__c</members>
+        <members>Asset.iselect_asset__c</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
         <members>AssetRelationship.RelatedAssetId</members>
