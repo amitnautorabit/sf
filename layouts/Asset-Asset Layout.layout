@@ -68,6 +68,10 @@
                 <behavior>Edit</behavior>
                 <field>iselect_asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>GC_Asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

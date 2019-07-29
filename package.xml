@@ -99,6 +99,7 @@
         <members>Asset.AssetServicedById</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
+        <members>Asset.GC_Asset__c</members>
         <members>Asset.InstallDate</members>
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
