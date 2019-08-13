@@ -62,7 +62,7 @@
         <fullName>GC_Asset__c</fullName>
         <externalId>false</externalId>
         <label>GC Asset</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
