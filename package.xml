@@ -106,6 +106,7 @@
         <members>Asset.IsInternal</members>
         <members>Asset.MC_Asset__c</members>
         <members>Asset.Name</members>
+        <members>Asset.OES_Asset__c</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
         <members>Asset.Price</members>
