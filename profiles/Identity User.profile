@@ -348,6 +348,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.Text20190827__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.UsageEndDate</field>
         <readable>true</readable>
     </fieldPermissions>

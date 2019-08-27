@@ -112,6 +112,7 @@
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
+        <members>Asset.Text20190827__c</members>
         <members>Asset.UsageEndDate</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
