@@ -117,6 +117,7 @@
         <members>Asset.PurchaseDate</members>
         <members>Asset.Quantity</members>
         <members>Asset.RHC_Asset__c</members>
+        <members>Asset.RMIT_Asset__c</members>
         <members>Asset.RootAssetId</members>
         <members>Asset.SP_Asset__c</members>
         <members>Asset.SerialNumber</members>
