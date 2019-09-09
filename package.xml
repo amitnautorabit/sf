@@ -94,6 +94,7 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
+        <members>Asset.Accenture_Asset__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
