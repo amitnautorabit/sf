@@ -72,6 +72,7 @@
         <members>Asset.Quantity</members>
         <members>Asset.RootAssetId</members>
         <members>Asset.SerialNumber</members>
+        <members>Asset.Sime_Field__c</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.UsageEndDate</members>
