@@ -136,7 +136,7 @@
         <fullName>cushman_asset__c</fullName>
         <externalId>false</externalId>
         <label>cushman asset</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
