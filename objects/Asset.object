@@ -142,6 +142,16 @@
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>Yalumba_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Yalumba Asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAssets</fullName>
         <filterScope>Everything</filterScope>
