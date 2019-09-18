@@ -84,6 +84,7 @@
         <members>Asset.ProductDescription</members>
         <members>Asset.ProductFamily</members>
         <members>Asset.PurchaseDate</members>
+        <members>Asset.QBCC_Asset__c</members>
         <members>Asset.Quantity</members>
         <members>Asset.RootAssetId</members>
         <members>Asset.SerialNumber</members>
