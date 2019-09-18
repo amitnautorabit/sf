@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>cushman_asset__c</field>
+                <field>QBCC_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
