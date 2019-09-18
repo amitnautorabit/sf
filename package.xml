@@ -76,6 +76,7 @@
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
         <members>Asset.Name</members>
+        <members>Asset.Optus_Asset__c</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
         <members>Asset.Price</members>
