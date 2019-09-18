@@ -48,6 +48,10 @@
                 <behavior>Edit</behavior>
                 <field>AR2_field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Asset_New_Field__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

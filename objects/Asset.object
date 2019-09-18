@@ -60,6 +60,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Asset_New_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Asset New Field</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ContactId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
