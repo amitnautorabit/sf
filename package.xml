@@ -88,6 +88,7 @@
         <members>Asset.QBCC_Asset__c</members>
         <members>Asset.Quantity</members>
         <members>Asset.RootAssetId</members>
+        <members>Asset.SM_Asset__c</members>
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
