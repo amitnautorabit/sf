@@ -84,6 +84,7 @@
         <members>Asset.ProductCode</members>
         <members>Asset.ProductDescription</members>
         <members>Asset.ProductFamily</members>
+        <members>Asset.Pru_Asset__c</members>
         <members>Asset.PurchaseDate</members>
         <members>Asset.QBCC_Asset__c</members>
         <members>Asset.Quantity</members>
