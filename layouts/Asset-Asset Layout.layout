@@ -60,6 +60,10 @@
                 <behavior>Edit</behavior>
                 <field>Sarah_Asset__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>berlitz_asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
