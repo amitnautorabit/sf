@@ -70,6 +70,7 @@
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
         <members>Asset.AssetServicedById</members>
+        <members>Asset.Bharath_Asset__c</members>
         <members>Asset.ContactId</members>
         <members>Asset.Description</members>
         <members>Asset.InstallDate</members>
