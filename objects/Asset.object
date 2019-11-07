@@ -34,7 +34,7 @@
         <fullName>AR2_field__c</fullName>
         <externalId>false</externalId>
         <label>AR2 field</label>
-        <length>10</length>
+        <length>30</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
@@ -63,7 +63,7 @@
         <fullName>Asset_3PL__c</fullName>
         <externalId>false</externalId>
         <label>Asset 3PL</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
@@ -122,7 +122,7 @@
         <fullName>Election_Asset__c</fullName>
         <externalId>false</externalId>
         <label>Election Asset</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
