@@ -83,6 +83,7 @@
         <members>Asset.Optus_Asset__c</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
+        <members>Asset.PnG_Asset__c</members>
         <members>Asset.Price</members>
         <members>Asset.Product2Id</members>
         <members>Asset.ProductCode</members>

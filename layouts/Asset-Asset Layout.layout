@@ -42,7 +42,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>MPI_Asset__c</field>
+                <field>Olympus_Asset__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PnG_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
