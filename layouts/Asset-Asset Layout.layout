@@ -42,11 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Olympus_Asset__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>PnG_Asset__c</field>
+                <field>NSWT__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
