@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>NSWT__c</field>
+                <field>Roojai_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
