@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Roojai_Asset__c</field>
+                <field>foxtel_asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
