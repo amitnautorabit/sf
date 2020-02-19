@@ -282,6 +282,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>test_field__c</fullName>
+        <externalId>false</externalId>
+        <label>test field</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAssets</fullName>
         <filterScope>Everything</filterScope>
