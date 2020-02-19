@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>47.0</version>
     <types>
         <members>AppSwitcher</members>
@@ -100,6 +101,7 @@
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
         <members>Asset.Name</members>
+        <members>Asset.Orix_field__c</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
         <members>Asset.Price</members>
