@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>iselect_asset__c</field>
+                <field>test_field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
