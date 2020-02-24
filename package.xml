@@ -101,6 +101,7 @@
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
+        <members>Asset.TG_field__c</members>
         <members>Asset.UsageEndDate</members>
         <members>Asset.berlitz_asset__c</members>
         <members>Asset.foxtel_asset__c</members>

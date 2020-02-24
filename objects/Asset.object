@@ -249,6 +249,16 @@
         <fullName>StockKeepingUnit</fullName>
     </fields>
     <fields>
+        <fullName>TG_field__c</fullName>
+        <externalId>false</externalId>
+        <label>TG field</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
