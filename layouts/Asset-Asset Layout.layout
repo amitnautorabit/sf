@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>test_field__c</field>
+                <field>TG_field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
