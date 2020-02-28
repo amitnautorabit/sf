@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TG_field__c</field>
+                <field>icare_asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
