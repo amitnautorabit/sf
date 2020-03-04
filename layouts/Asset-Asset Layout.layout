@@ -60,6 +60,10 @@
                 <behavior>Edit</behavior>
                 <field>Orix_field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>news_asset__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
