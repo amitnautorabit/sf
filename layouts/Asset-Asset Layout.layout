@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Eq_Asset__c</field>
+                <field>SLE_asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

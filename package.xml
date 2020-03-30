@@ -101,6 +101,7 @@
         <members>Asset.Quantity</members>
         <members>Asset.Roojai_Asset__c</members>
         <members>Asset.RootAssetId</members>
+        <members>Asset.SLE_asset__c</members>
         <members>Asset.SM_Asset__c</members>
         <members>Asset.Sarah_Asset__c</members>
         <members>Asset.SerialNumber</members>
