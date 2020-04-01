@@ -207,6 +207,16 @@
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>conflict_field__c</fullName>
+        <externalId>false</externalId>
+        <label>conflict field</label>
+        <length>10</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAssets</fullName>
         <filterScope>Everything</filterScope>

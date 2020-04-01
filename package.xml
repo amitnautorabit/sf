@@ -76,6 +76,7 @@
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.UsageEndDate</members>
+        <members>Asset.conflict_field__c</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
         <members>AssetRelationship.RelatedAssetId</members>
