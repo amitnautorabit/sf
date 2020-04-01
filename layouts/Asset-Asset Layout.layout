@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>news_asset__c</field>
+                <field>conflict_field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

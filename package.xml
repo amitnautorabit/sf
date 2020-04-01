@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>47.0</version>
     <types>
         <members>AppSwitcher</members>
@@ -116,6 +117,7 @@
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.Traf_Asset__c</members>
         <members>Asset.UsageEndDate</members>
+        <members>Asset.conflict_field__c</members>
         <members>Asset.news_asset__c</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
