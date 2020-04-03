@@ -82,6 +82,7 @@
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
         <members>Asset.LT_Asset__c</members>
+        <members>Asset.LW_Asset__c</members>
         <members>Asset.MPI_Asset__c</members>
         <members>Asset.NSWT__c</members>
         <members>Asset.Name</members>
