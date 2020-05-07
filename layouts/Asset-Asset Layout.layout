@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Foxtel_Asset1__c</field>
+                <field>icare_asset1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
