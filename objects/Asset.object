@@ -323,6 +323,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>icare_asset1__c</fullName>
+        <externalId>false</externalId>
+        <label>icare asset1</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>icare_asset__c</fullName>
         <externalId>false</externalId>
         <label>icare asset</label>
