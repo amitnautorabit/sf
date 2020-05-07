@@ -79,6 +79,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Foxtel_Asset1__c</fullName>
+        <externalId>false</externalId>
+        <label>Foxtel Asset1</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>InstallDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>

@@ -217,6 +217,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.Foxtel_Asset1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.InstallDate</field>
         <readable>true</readable>
     </fieldPermissions>
