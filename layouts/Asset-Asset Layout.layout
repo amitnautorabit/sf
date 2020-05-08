@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>icare_asset1__c</field>
+                <field>acc_asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

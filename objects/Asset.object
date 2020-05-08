@@ -303,6 +303,16 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>acc_asset__c</fullName>
+        <externalId>false</externalId>
+        <label>acc asset</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>berlitz_asset__c</fullName>
         <externalId>false</externalId>
         <label>berlitz asset</label>
