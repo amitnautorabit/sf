@@ -111,6 +111,7 @@
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.TG_field__c</members>
         <members>Asset.UsageEndDate</members>
+        <members>Asset.acc_asset__c</members>
         <members>Asset.berlitz_asset__c</members>
         <members>Asset.foxtel_asset__c</members>
         <members>Asset.icare_asset1__c</members>
