@@ -111,6 +111,7 @@
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.TG_field__c</members>
+        <members>Asset.Telstra_Asset__c</members>
         <members>Asset.UsageEndDate</members>
         <members>Asset.acc_asset__c</members>
         <members>Asset.berlitz_asset__c</members>

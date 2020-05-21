@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>FH_Asset__c</field>
+                <field>Telstra_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
