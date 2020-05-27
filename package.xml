@@ -70,6 +70,7 @@
         <members>ActiveScratchOrg.SignupInstance</members>
         <members>ActiveScratchOrg.SignupTrialDays</members>
         <members>ActiveScratchOrg.SignupUsername</members>
+        <members>Asset.ASB_Asset__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
