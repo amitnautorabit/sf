@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>ASB_Asset__c</field>
+                <field>AP_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
