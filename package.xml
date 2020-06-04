@@ -121,6 +121,7 @@
         <members>Asset.icare_asset1__c</members>
         <members>Asset.icare_asset__c</members>
         <members>Asset.iselect_asset__c</members>
+        <members>Asset.nbn_asset__c</members>
         <members>Asset.test_field__c</members>
         <members>Asset.tf_asset__c</members>
         <members>AssetRelationship.AssetId</members>
