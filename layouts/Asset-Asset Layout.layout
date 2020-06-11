@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>nbn_asset__c</field>
+                <field>Power_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
