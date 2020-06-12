@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Power_Asset__c</field>
+                <field>Test_Field_0612__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
