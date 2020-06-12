@@ -349,6 +349,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Test_Field_0612__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Field 0612</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
