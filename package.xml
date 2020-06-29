@@ -72,6 +72,7 @@
         <members>ActiveScratchOrg.SignupUsername</members>
         <members>Asset.AP_Asset__c</members>
         <members>Asset.ASB_Asset__c</members>
+        <members>Asset.AU_Post_Asset__c</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
