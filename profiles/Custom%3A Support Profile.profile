@@ -382,6 +382,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.TWE_Asset__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.Telstra_Asset__c</field>
         <readable>true</readable>
     </fieldPermissions>

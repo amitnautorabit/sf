@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>AU_Post_Asset__c</field>
+                <field>TWE_Asset__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
