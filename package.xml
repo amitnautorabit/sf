@@ -115,6 +115,7 @@
         <members>Asset.Status</members>
         <members>Asset.StockKeepingUnit</members>
         <members>Asset.TG_field__c</members>
+        <members>Asset.TWE_Asset__c</members>
         <members>Asset.Telstra_Asset__c</members>
         <members>Asset.Test_Field_0612__c</members>
         <members>Asset.UsageEndDate</members>
