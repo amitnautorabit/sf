@@ -1,7 +1,6 @@
 public with sharing class AccountController {
   public static List<Account> getAllActiveAccounts() {
-    // Comment added on 29-June-2020 
-    // External comment
+    // Comment added on 16-Jul-2020
     return [SELECT Id,Name,Active__c FROM Account WHERE Active__c = 'Yes'];
   }
 }
