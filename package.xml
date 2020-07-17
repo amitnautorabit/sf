@@ -83,6 +83,7 @@
         <members>Asset.Eq_Asset__c</members>
         <members>Asset.FH_Asset__c</members>
         <members>Asset.Foxtel_Asset1__c</members>
+        <members>Asset.HCM_Asset__c</members>
         <members>Asset.InstallDate</members>
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
