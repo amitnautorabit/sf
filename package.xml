@@ -90,6 +90,7 @@
         <members>Asset.LT_Asset__c</members>
         <members>Asset.LW_Asset__c</members>
         <members>Asset.MPI_Asset__c</members>
+        <members>Asset.NSWT_Asset__c</members>
         <members>Asset.NSWT__c</members>
         <members>Asset.Name</members>
         <members>Asset.OC_Asset__c</members>
