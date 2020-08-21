@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>NSWT_Asset__c</field>
+                <field>Sample20200821__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

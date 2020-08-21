@@ -337,6 +337,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Sample20200821__c</fullName>
+        <externalId>false</externalId>
+        <label>Sample20200821</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Sarah_Asset__c</fullName>
         <externalId>false</externalId>
         <label>Sarah Asset</label>
