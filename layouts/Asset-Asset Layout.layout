@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Sample20200821__c</field>
+                <field>Sample20200825__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
