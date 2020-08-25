@@ -113,6 +113,7 @@
         <members>Asset.SLE_asset__c</members>
         <members>Asset.SM_Asset__c</members>
         <members>Asset.Sample20200821__c</members>
+        <members>Asset.Sample20200825__c</members>
         <members>Asset.Sarah_Asset__c</members>
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>

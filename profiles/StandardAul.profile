@@ -372,6 +372,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.Sample20200825__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.Sarah_Asset__c</field>
         <readable>true</readable>
     </fieldPermissions>
