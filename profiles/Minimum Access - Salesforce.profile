@@ -4,7 +4,16 @@
         <apexClass>AccountController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>CustomerUtility</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Sample_Ac_Field_20201207__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Asset.Sample20200821__c</field>
@@ -55,6 +64,24 @@
         <field>Asset.Sample_Field_20200312__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample_Obj_20201207__c.SO_CF1_20201207__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample_Obj_20201207__c.SO_CF2_20201207__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Sample_Obj_20201207__c.SO_CF3_20201207__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>Sample_Obj_20201207__c-Sample Obj 20201207 Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
