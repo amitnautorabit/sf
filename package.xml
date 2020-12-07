@@ -3,7 +3,12 @@
     <version>48.0</version>
     <types>
         <members>AccountController</members>
+        <members>CustomerUtility</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountBefIns</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>Case.Standard</members>
@@ -42,6 +47,7 @@
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.Sample_Ac_Field_20201207__c</members>
         <members>Account.ShippingAddress</members>
         <members>Account.Sic</members>
         <members>Account.SicDesc</members>
@@ -700,6 +706,9 @@
         <members>RecordAction.Pinned</members>
         <members>RecordAction.RecordId</members>
         <members>RecordAction.Status</members>
+        <members>Sample_Obj_20201207__c.SO_CF1_20201207__c</members>
+        <members>Sample_Obj_20201207__c.SO_CF2_20201207__c</members>
+        <members>Sample_Obj_20201207__c.SO_CF3_20201207__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>Scorecard.OwnerId</members>
@@ -856,6 +865,7 @@
         <members>Recommendation</members>
         <members>RecordAction</members>
         <members>RequestsForAccessSIQ</members>
+        <members>Sample_Obj_20201207__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
@@ -924,6 +934,7 @@
         <members>Product2-Product Layout</members>
         <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
         <members>QuickText-Quick Text Layout</members>
+        <members>Sample_Obj_20201207__c-Sample Obj 20201207 Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
