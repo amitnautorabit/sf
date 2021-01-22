@@ -40,6 +40,10 @@
                 <behavior>Edit</behavior>
                 <field>Price</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Sample_20210122__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
