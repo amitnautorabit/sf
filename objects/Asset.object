@@ -447,6 +447,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Sample_20210208__c</fullName>
+        <externalId>false</externalId>
+        <label>Sample 20210208</label>
+        <length>20</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Sample_Field_20200312__c</fullName>
         <externalId>false</externalId>
         <label>Sample Field 20200312</label>

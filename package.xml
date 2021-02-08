@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>50.0</version>
     <types>
         <members>AccountController</members>
         <members>CustomerUtility</members>
@@ -129,6 +129,7 @@
         <members>Asset.Sample_20201203__c</members>
         <members>Asset.Sample_20210122__c</members>
         <members>Asset.Sample_20210127__c</members>
+        <members>Asset.Sample_20210208__c</members>
         <members>Asset.Sample_Field_20200312__c</members>
         <members>Asset.Sarah_Asset__c</members>
         <members>Asset.SerialNumber</members>
