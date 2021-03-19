@@ -101,6 +101,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.Saple_20210319__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Sample_Obj_20201207__c.SO_CF1_20201207__c</field>
         <readable>true</readable>
     </fieldPermissions>
