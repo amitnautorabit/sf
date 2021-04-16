@@ -111,6 +111,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.Sample_20210416__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.Sample_Field_20200312__c</field>
         <readable>true</readable>
     </fieldPermissions>
